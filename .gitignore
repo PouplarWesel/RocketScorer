@@ -3,6 +3,7 @@
 # Ignore PyInstaller build directories
 /dist
 /build
+/rocket_app.build
 
 # Ignore PyInstaller .spec file
 /*.spec
@@ -18,3 +19,6 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
+*.xml
+*.cmd
+*.exe
