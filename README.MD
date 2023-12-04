@@ -35,3 +35,6 @@ You can build an executable version of the application with PyInstaller:
 
 
 This will create a single executable file in the `dist` directory. You can run this executable to start the application without needing to have Python installed.
+
+
+Wondering why Window Defender is flagging the executable as a virus? See [this stack overflow conversation](https://stackoverflow.com/questions/43777106/program-made-with-pyinstaller-now-seen-as-a-trojan-horse-by-avg) for more information.
